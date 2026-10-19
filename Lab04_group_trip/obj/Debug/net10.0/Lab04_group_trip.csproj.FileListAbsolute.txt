@@ -1,0 +1,14 @@
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\bin\Debug\net10.0\Lab04_group_trip.exe
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\bin\Debug\net10.0\Lab04_group_trip.deps.json
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\bin\Debug\net10.0\Lab04_group_trip.runtimeconfig.json
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\bin\Debug\net10.0\Lab04_group_trip.dll
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\bin\Debug\net10.0\Lab04_group_trip.pdb
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.AssemblyInfoInputs.cache
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.AssemblyInfo.cs
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.csproj.CoreCompileInputs.cache
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.dll
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\refint\Lab04_group_trip.dll
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.pdb
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\Lab04_group_trip.genruntimeconfig.cache
+C:\Users\zrrac\CSCI1250\Lab04_group_trip\Lab04_group_trip\obj\Debug\net10.0\ref\Lab04_group_trip.dll
